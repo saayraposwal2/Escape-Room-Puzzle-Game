@@ -596,7 +596,7 @@ MonoBehaviour:
       m_PersistentCalls:
         m_Calls:
         - m_Target: {fileID: 523292520}
-          m_TargetAssemblyTypeName: ChristinaCreatesGames.Typography.Book.BookContents,
+          m_TargetAssemblyTypeName: ChristinaCreatesGames.Typography.Book.NotebookContents,
             Assembly-CSharp
           m_MethodName: PreviousPage
           m_Mode: 1
@@ -664,7 +664,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1208076845
 MonoBehaviour:
   m_ObjectHideFlags: 0
