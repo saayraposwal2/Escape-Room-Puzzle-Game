@@ -6,7 +6,12 @@ public class BookContents : MonoBehaviour
     [TextArea(10, 20)][SerializeField] private string content;
     [Space][SerializeField] private TMP_Text leftSide;
     [SerializeField] private TMP_Text rightSide;
-    
+
+    public void OnTiggerEnter2D(Collider2D collision)
+    {
+        
+    }
+
 
     private void OnValidate()
     {
@@ -29,7 +34,6 @@ public class BookContents : MonoBehaviour
         rightSide.text = content;
     }
 
-    
 
     public void PreviousPage()
     {

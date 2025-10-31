@@ -4,17 +4,13 @@ using UnityEngine.InputSystem;
 
 public class Interact : MonoBehaviour
 {
-    public bool inInRange = false;
+    public bool isInRange = false;
     public UnityEvent interactAction;
-    void Start()
-    {
-         
-    }
 
     // Update is called once per frame
     void Update()
     {
-        if (inInRange && Keyboard.current.eKey.wasPressedThisFrame)
+        if (isInRange && Keyboard.current.eKey.wasPressedThisFrame)
         {
             interactAction.Invoke();
         }
@@ -24,7 +20,7 @@ public class Interact : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            inInRange = true;
+            isInRange = true;
             Debug.Log("Player in interaction range");
         }
     }
@@ -33,7 +29,7 @@ public class Interact : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            inInRange = false;
+            isInRange = false;
             Debug.Log("Player left interaction range");
         }
     }

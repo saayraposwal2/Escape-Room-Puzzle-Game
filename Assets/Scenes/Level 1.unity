@@ -174,116 +174,115 @@ MonoBehaviour:
 
     month 1
 
-    
+
 
     50 for trip (Hague)
 
-    60
-    for utrecht
+    60 for utrecht
 
-    55 for antwerp
+    55
+    for antwerp
 
     50 for cycle
 
     23 for sim
 
-    26
-    for train
+    26 for train
 
-    
+
 
     food:
 
-    10.80 (lidl 16/8/25)
+    10.80
+    (lidl 16/8/25)
 
     0.92 (lidl 17/8/25)
 
-    8.38
-    (jumbo 17/8/25)
+    8.38 (jumbo 17/8/25)
 
-    10.47 (lidl 19/8/25)
+    10.47
+    (lidl 19/8/25)
 
     17.86 (jumbo 22/8/25)
 
-    13.00
-    (saturday market)
+    13.00 (saturday market)
 
-    3.84 (lidl 24/8/25)
+    3.84
+    (lidl 24/8/25)
 
     1.84 (lidl 25/8/25)
 
-    12.98
-    (lidl 27/8/25)
+    12.98 (lidl 27/8/25)
 
-    8.93 (lidl 31/8/25)
+    8.93 (lidl
+    31/8/25)
 
     5.56 (lidl 5/9/25)
 
-    14.04
-    (saturday market)
+    14.04 (saturday market)
 
-    16.28 (jumbo 6/9/25)
+    16.28 (jumbo
+    6/9/25)
 
     7.36 (action 8/9/25)
 
-    11.75
-    (lidl 9/9/25)
+    11.75 (lidl 9/9/25)
 
-    1.97 (action 11/9/25)
+    1.97 (action
+    11/9/25)
 
     10 (saturday market)
 
-    5.42
-    (lidl 14/9/25)
+    5.42 (lidl 14/9/25)
 
     total - 165~
 
-    
 
-    month 2
+
+    month
+    2
 
     5 (club)
 
-    5.25
-    (happy meal)
+    5.25 (happy meal)
 
     12.92 (supplies)
 
-    3.99 (Action 24/9/25)
+    3.99 (Action
+    24/9/25)
 
-    
 
-    
 
-    Switzerland
-    and Italy Trip :
 
-    
 
-    mcdonalds (11/10/25) (5 euro)
+    Switzerland and Italy Trip :
 
-    
+
+
+    mcdonalds (11/10/25) (5
+    euro)
+
+
 
     Lucerne:
 
-    Silver
-    Trip ticket (90.20 CHF)
+    Silver Trip ticket (90.20 CHF)
 
     coop (5.65 CHF)
 
-    locker (8CHF)
+    locker
+    (8CHF)
 
-    post
-    card (1 CHF)
+    post card (1 CHF)
 
     train ticket (4CHF)
 
-    
 
-    Lucerne to Milan Tickets
-    (35.97)
 
-    
+    Lucerne to Milan
+    Tickets (35.97)
+
+
 
     Milan:
 
@@ -305,7 +304,7 @@ MonoBehaviour:
 
     mine - 76
 
-    
+
 
     Venice:
 
@@ -321,134 +320,133 @@ MonoBehaviour:
 
     gelato (2.50 euro)
 
-    ferry (9.50
-    euro)
+    ferry (9.50 euro)
 
-    
 
-    mine - 85
 
-    
+    mine
+    - 85
+
+
 
     Iseo:
 
-    brescia to iseo tickets
-    (7.20 euro)
+    brescia to iseo tickets (7.20 euro)
 
-    ferry (10.20 euro)
+    ferry (10.20
+    euro)
 
     lunch (32 euro)
 
     KFC (2.80 euro)
 
-    
 
-    mine
-    - 52
 
-    
+    mine - 52
+
+
 
     Zurich:
 
-    milan to zurich (50 euro)
+    milan
+    to zurich (50 euro)
 
     metro (1.70 euro)
 
-    locker
-    (12 CHF)
+    locker (12 CHF)
 
-    ferry (4.60 CHF)
+    ferry (4.60
+    CHF)
 
     lidl (3 CHF)
 
     bus (2.80 CHF)
 
-    lidl
-    (1.45 CHF)
+    lidl (1.45 CHF)
 
-    Lindt museum (15CHF)
+    Lindt museum
+    (15CHF)
 
-    
+
 
     Frankfurt:
 
-    mcd (7.88
-    euro)
+    mcd (7.88 euro)
 
     burger king (5.18 euro)
 
-    
 
-    total - 450
 
-    
+    total
+    - 450
+
+
 
     food:
 
-    3.64
-    (lidl 15/9/25)
+    3.64 (lidl 15/9/25)
 
     1.81 (lidl 17/9/25)
 
-    4.14 (lidl 18/9/25)
+    4.14
+    (lidl 18/9/25)
 
-    7.60
-    (lidl 19/9/25)
+    7.60 (lidl 19/9/25)
 
     5.85 (saturday market 20/9/25)
 
-    2.35 (lidl 22/9/25)
+    2.35
+    (lidl 22/9/25)
 
-    10.16
-    (lidl 23/9/25)
+    10.16 (lidl 23/9/25)
 
     8.45 (lidl 26/9/25)
 
-    11.02 (jumbo 27/9/25)
+    11.02
+    (jumbo 27/9/25)
 
-    1.89
-    (lidl 28/9/25)
+    1.89 (lidl 28/9/25)
 
     6.25 (lidl 1/10/25)
 
-    1.85 (lidl 2/10/25)
+    1.85 (lidl
+    2/10/25)
 
-    6.25
-    (saturday market 4/10/25)
+    6.25 (saturday market 4/10/25)
 
     15.92 (lidl 5/10/25)
 
-    4.95 (lidl 7/10/25)
+    4.95
+    (lidl 7/10/25)
 
-    0.79
-    (lidl 8/10/25)
+    0.79 (lidl 8/10/25)
 
     1.88 (lidl 9/10/25)
 
-    6.20 (saturday market)
+    6.20 (saturday
+    market)
 
-    3.07
-    (lidl 11/10/25)
+    3.07 (lidl 11/10/25)
 
-    
+
 
     month 3
 
-    
+
 
     food:
 
-    4.99 (lidl 18/10/25)
+    4.99 (lidl
+    18/10/25)
 
-    3.33
-    (jumbo 18/10/25)
+    3.33 (jumbo 18/10/25)
 
     5.99 (lidl 21/10/25)
 
-    7.36 (lidl 24/10/25)
+    7.36 (lidl
+    24/10/25)
 
-    22.59
-    (lidl 25/10/25)'
+    22.59 (lidl 25/10/25)'
   leftSide: {fileID: 1675595323}
   rightSide: {fileID: 1915305837}
 --- !u!114 &64293411
@@ -2491,6 +2489,170 @@ MonoBehaviour:
       m_PostInfinity: 2
       m_RotationOrder: 4
   CustomBlends: {fileID: 0}
+--- !u!1001 &535022522
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 596227720}
+    m_Modifications:
+    - target: {fileID: 2633846178351620643, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+      propertyPath: m_Name
+      value: InteractibleCircle
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.78
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+--- !u!4 &535022523 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+  m_PrefabInstance: {fileID: 535022522}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &596227719
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1985938715}
+    m_Modifications:
+    - target: {fileID: 5458920013098542904, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5458920013098542904, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 5458920013098542904, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5458920013098542904, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5458920013098542904, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5458920013098542904, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5458920013098542904, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5458920013098542904, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5458920013098542904, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5458920013098542904, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5764092507922743491, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1930053342, guid: 84637a251f718b84781a88eaba0190d2, type: 3}
+    - target: {fileID: 5764092507922743491, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_SortingLayer
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5764092507922743491, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_SortingLayerID
+      value: -298531161
+      objectReference: {fileID: 0}
+    - target: {fileID: 9133291629891035629, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_Name
+      value: TopPillar4
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 5458920013098542904, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 535022523}
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 9133291629891035629, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 596227722}
+  m_SourcePrefab: {fileID: 100100000, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+--- !u!4 &596227720 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5458920013098542904, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+  m_PrefabInstance: {fileID: 596227719}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &596227721 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9133291629891035629, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+  m_PrefabInstance: {fileID: 596227719}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &596227722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 596227721}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64cda76f86af77345b7a405d7bfa1c0c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  escape: {fileID: 1095599351}
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
@@ -3124,6 +3286,81 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &798896087
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 798896088}
+  - component: {fileID: 798896090}
+  - component: {fileID: 798896089}
+  m_Layer: 5
+  m_Name: Pillar3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &798896088
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 798896087}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1347685075}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &798896089
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 798896087}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.5471698, g: 0.5471698, b: 0.5471698, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &798896090
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 798896087}
+  m_CullTransparentMesh: 1
 --- !u!1 &819594765
 GameObject:
   m_ObjectHideFlags: 0
@@ -3179,116 +3416,115 @@ MonoBehaviour:
 
     month 1
 
-    
+
 
     50 for trip (Hague)
 
-    60
-    for utrecht
+    60 for utrecht
 
-    55 for antwerp
+    55
+    for antwerp
 
     50 for cycle
 
     23 for sim
 
-    26
-    for train
+    26 for train
 
-    
+
 
     food:
 
-    10.80 (lidl 16/8/25)
+    10.80
+    (lidl 16/8/25)
 
     0.92 (lidl 17/8/25)
 
-    8.38
-    (jumbo 17/8/25)
+    8.38 (jumbo 17/8/25)
 
-    10.47 (lidl 19/8/25)
+    10.47
+    (lidl 19/8/25)
 
     17.86 (jumbo 22/8/25)
 
-    13.00
-    (saturday market)
+    13.00 (saturday market)
 
-    3.84 (lidl 24/8/25)
+    3.84
+    (lidl 24/8/25)
 
     1.84 (lidl 25/8/25)
 
-    12.98
-    (lidl 27/8/25)
+    12.98 (lidl 27/8/25)
 
-    8.93 (lidl 31/8/25)
+    8.93 (lidl
+    31/8/25)
 
     5.56 (lidl 5/9/25)
 
-    14.04
-    (saturday market)
+    14.04 (saturday market)
 
-    16.28 (jumbo 6/9/25)
+    16.28 (jumbo
+    6/9/25)
 
     7.36 (action 8/9/25)
 
-    11.75
-    (lidl 9/9/25)
+    11.75 (lidl 9/9/25)
 
-    1.97 (action 11/9/25)
+    1.97 (action
+    11/9/25)
 
     10 (saturday market)
 
-    5.42
-    (lidl 14/9/25)
+    5.42 (lidl 14/9/25)
 
     total - 165~
 
-    
 
-    month 2
+
+    month
+    2
 
     5 (club)
 
-    5.25
-    (happy meal)
+    5.25 (happy meal)
 
     12.92 (supplies)
 
-    3.99 (Action 24/9/25)
+    3.99 (Action
+    24/9/25)
 
-    
 
-    
 
-    Switzerland
-    and Italy Trip :
 
-    
 
-    mcdonalds (11/10/25) (5 euro)
+    Switzerland and Italy Trip :
 
-    
+
+
+    mcdonalds (11/10/25) (5
+    euro)
+
+
 
     Lucerne:
 
-    Silver
-    Trip ticket (90.20 CHF)
+    Silver Trip ticket (90.20 CHF)
 
     coop (5.65 CHF)
 
-    locker (8CHF)
+    locker
+    (8CHF)
 
-    post
-    card (1 CHF)
+    post card (1 CHF)
 
     train ticket (4CHF)
 
-    
 
-    Lucerne to Milan Tickets
-    (35.97)
 
-    
+    Lucerne to Milan
+    Tickets (35.97)
+
+
 
     Milan:
 
@@ -3310,7 +3546,7 @@ MonoBehaviour:
 
     mine - 76
 
-    
+
 
     Venice:
 
@@ -3326,134 +3562,133 @@ MonoBehaviour:
 
     gelato (2.50 euro)
 
-    ferry (9.50
-    euro)
+    ferry (9.50 euro)
 
-    
 
-    mine - 85
 
-    
+    mine
+    - 85
+
+
 
     Iseo:
 
-    brescia to iseo tickets
-    (7.20 euro)
+    brescia to iseo tickets (7.20 euro)
 
-    ferry (10.20 euro)
+    ferry (10.20
+    euro)
 
     lunch (32 euro)
 
     KFC (2.80 euro)
 
-    
 
-    mine
-    - 52
 
-    
+    mine - 52
+
+
 
     Zurich:
 
-    milan to zurich (50 euro)
+    milan
+    to zurich (50 euro)
 
     metro (1.70 euro)
 
-    locker
-    (12 CHF)
+    locker (12 CHF)
 
-    ferry (4.60 CHF)
+    ferry (4.60
+    CHF)
 
     lidl (3 CHF)
 
     bus (2.80 CHF)
 
-    lidl
-    (1.45 CHF)
+    lidl (1.45 CHF)
 
-    Lindt museum (15CHF)
+    Lindt museum
+    (15CHF)
 
-    
+
 
     Frankfurt:
 
-    mcd (7.88
-    euro)
+    mcd (7.88 euro)
 
     burger king (5.18 euro)
 
-    
 
-    total - 450
 
-    
+    total
+    - 450
+
+
 
     food:
 
-    3.64
-    (lidl 15/9/25)
+    3.64 (lidl 15/9/25)
 
     1.81 (lidl 17/9/25)
 
-    4.14 (lidl 18/9/25)
+    4.14
+    (lidl 18/9/25)
 
-    7.60
-    (lidl 19/9/25)
+    7.60 (lidl 19/9/25)
 
     5.85 (saturday market 20/9/25)
 
-    2.35 (lidl 22/9/25)
+    2.35
+    (lidl 22/9/25)
 
-    10.16
-    (lidl 23/9/25)
+    10.16 (lidl 23/9/25)
 
     8.45 (lidl 26/9/25)
 
-    11.02 (jumbo 27/9/25)
+    11.02
+    (jumbo 27/9/25)
 
-    1.89
-    (lidl 28/9/25)
+    1.89 (lidl 28/9/25)
 
     6.25 (lidl 1/10/25)
 
-    1.85 (lidl 2/10/25)
+    1.85 (lidl
+    2/10/25)
 
-    6.25
-    (saturday market 4/10/25)
+    6.25 (saturday market 4/10/25)
 
     15.92 (lidl 5/10/25)
 
-    4.95 (lidl 7/10/25)
+    4.95
+    (lidl 7/10/25)
 
-    0.79
-    (lidl 8/10/25)
+    0.79 (lidl 8/10/25)
 
     1.88 (lidl 9/10/25)
 
-    6.20 (saturday market)
+    6.20 (saturday
+    market)
 
-    3.07
-    (lidl 11/10/25)
+    3.07 (lidl 11/10/25)
 
-    
+
 
     month 3
 
-    
+
 
     food:
 
-    4.99 (lidl 18/10/25)
+    4.99 (lidl
+    18/10/25)
 
-    3.33
-    (jumbo 18/10/25)
+    3.33 (jumbo 18/10/25)
 
     5.99 (lidl 21/10/25)
 
-    7.36 (lidl 24/10/25)
+    7.36 (lidl
+    24/10/25)
 
-    22.59
-    (lidl 25/10/25)'
+    22.59 (lidl 25/10/25)'
   leftSide: {fileID: 1675595323}
   rightSide: {fileID: 1915305837}
 --- !u!114 &819594768
@@ -3690,285 +3925,68 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7d6e7ef6180d6794db6e8c39d8507806, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  content: 'Total Expense
-
-    month 1
-
-    
-
-    50 for trip (Hague)
-
-    60
-    for utrecht
-
-    55 for antwerp
-
-    50 for cycle
-
-    23 for sim
-
-    26
-    for train
+  content: 'They are mainly governed by "The Doctrine of Equal Light" which holds
+    the teaching of their deities, Aelora - The Creator and Vaernis -  The Caretaker.
+    The Luminar live by the belief that "All Life Is Sacred" and "No Life Must Come
+    To An End By Human Hands"
 
     
 
-    food:
-
-    10.80 (lidl 16/8/25)
-
-    0.92 (lidl 17/8/25)
-
-    8.38
-    (jumbo 17/8/25)
-
-    10.47 (lidl 19/8/25)
-
-    17.86 (jumbo 22/8/25)
-
-    13.00
-    (saturday market)
-
-    3.84 (lidl 24/8/25)
-
-    1.84 (lidl 25/8/25)
-
-    12.98
-    (lidl 27/8/25)
-
-    8.93 (lidl 31/8/25)
-
-    5.56 (lidl 5/9/25)
-
-    14.04
-    (saturday market)
-
-    16.28 (jumbo 6/9/25)
-
-    7.36 (action 8/9/25)
-
-    11.75
-    (lidl 9/9/25)
-
-    1.97 (action 11/9/25)
-
-    10 (saturday market)
-
-    5.42
-    (lidl 14/9/25)
-
-    total - 165~
+    It is nature that is responsible for maintaining
+    its order not humans. No one shall hurt a human or beast, no one shall hurt a
+    bird or insect. Each living being has its fate, help them if you can, step back
+    if you cannot. Never willfully harm any of Aelora''s creations, for creations
+    harmed at the hands of humans do not find Vaernis''s embrace at the end of their
+    life.
 
     
 
-    month 2
-
-    5 (club)
-
-    5.25
-    (happy meal)
-
-    12.92 (supplies)
-
-    3.99 (Action 24/9/25)
+    The Luminar are divided by roles but never by class, all are
+    equal before gods'' eyes.
 
     
 
-    
-
-    Switzerland
-    and Italy Trip :
-
-    
-
-    mcdonalds (11/10/25) (5 euro)
+    They are lead by two groups working together,
+    The Priests, who preach the word of god and help all practice spirituality, and
+    The Scholars, who seek explanations to natural phenomenon and teach all the way
+    the world works.
 
     
 
-    Lucerne:
-
-    Silver
-    Trip ticket (90.20 CHF)
-
-    coop (5.65 CHF)
-
-    locker (8CHF)
-
-    post
-    card (1 CHF)
-
-    train ticket (4CHF)
+    There are also the disciples, who train to replace
+    the priests and scholars once they have served their time, the engineers, who
+    study under the scholars and apply their learnings to create tools to help the
+    people, and the doctors, tasked with protecting against diseases and helping
+    people heal.
 
     
 
-    Lucerne to Milan Tickets
-    (35.97)
+    Then come the farmers and the common folk, everyone
+    on them work their part in keeping the society running.
 
     
 
-    Milan:
-
-    brescia to milan tickets (16.20 euro)
-
-    bus(2.20
-    euro)
-
-    metro(2.20 euro)
-
-    tram(1.70 euro)
-
-    lunch (36 euro)
-
-    crazy
-    cat cafe (13.00 euro)
-
-    milan to brescia ticket(8.10 euro)
-
-    mine - 76
+    The children
+    are educated in both worldly knowledge and faith since childhood. The first phrase
+    every child is taught is "All Life is Sacred".
 
     
 
-    Venice:
+    No one is allowed
+    to stray from the path of no harm, those that do are reprimanded in numerous
+    ways:
 
-    ticket
-    to and from venice (32 euro)
+    Being given extra work for the day to show their repentance.
 
-    palazzo ducale ticket (30 euro)
+    Given
+    a "sentence of silence" where they must reflect upon their actions alone.
 
-    brunch
-    (20.70 euro)
+    In
+    the worst case, they are sentenced to the labyrinth, where they must rediscover
+    themselves and relearn everything about the society''s teachings which they must
+    use to solve puzzles to re-emerge a new and better person.
 
-    pads (3.45 euro)
-
-    gelato (2.50 euro)
-
-    ferry (9.50
-    euro)
-
-    
-
-    mine - 85
-
-    
-
-    Iseo:
-
-    brescia to iseo tickets
-    (7.20 euro)
-
-    ferry (10.20 euro)
-
-    lunch (32 euro)
-
-    KFC (2.80 euro)
-
-    
-
-    mine
-    - 52
-
-    
-
-    Zurich:
-
-    milan to zurich (50 euro)
-
-    metro (1.70 euro)
-
-    locker
-    (12 CHF)
-
-    ferry (4.60 CHF)
-
-    lidl (3 CHF)
-
-    bus (2.80 CHF)
-
-    lidl
-    (1.45 CHF)
-
-    Lindt museum (15CHF)
-
-    
-
-    Frankfurt:
-
-    mcd (7.88
-    euro)
-
-    burger king (5.18 euro)
-
-    
-
-    total - 450
-
-    
-
-    food:
-
-    3.64
-    (lidl 15/9/25)
-
-    1.81 (lidl 17/9/25)
-
-    4.14 (lidl 18/9/25)
-
-    7.60
-    (lidl 19/9/25)
-
-    5.85 (saturday market 20/9/25)
-
-    2.35 (lidl 22/9/25)
-
-    10.16
-    (lidl 23/9/25)
-
-    8.45 (lidl 26/9/25)
-
-    11.02 (jumbo 27/9/25)
-
-    1.89
-    (lidl 28/9/25)
-
-    6.25 (lidl 1/10/25)
-
-    1.85 (lidl 2/10/25)
-
-    6.25
-    (saturday market 4/10/25)
-
-    15.92 (lidl 5/10/25)
-
-    4.95 (lidl 7/10/25)
-
-    0.79
-    (lidl 8/10/25)
-
-    1.88 (lidl 9/10/25)
-
-    6.20 (saturday market)
-
-    3.07
-    (lidl 11/10/25)
-
-    
-
-    month 3
-
-    
-
-    food:
-
-    4.99 (lidl 18/10/25)
-
-    3.33
-    (jumbo 18/10/25)
-
-    5.99 (lidl 21/10/25)
-
-    7.36 (lidl 24/10/25)
-
-    22.59
-    (lidl 25/10/25)'
+'
   leftSide: {fileID: 1675595323}
   rightSide: {fileID: 1915305837}
 --- !u!1 &942763870 stripped
@@ -4029,7 +4047,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b1bc61a5d7e4a534ab69246c71b2f6af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  inInRange: 0
+  isInRange: 0
   interactAction:
     m_PersistentCalls:
       m_Calls:
@@ -4045,6 +4063,179 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!1001 &1089616200
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1985938715}
+    m_Modifications:
+    - target: {fileID: 5458920013098542904, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5458920013098542904, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 5458920013098542904, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5458920013098542904, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5458920013098542904, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5458920013098542904, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5458920013098542904, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5458920013098542904, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5458920013098542904, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5458920013098542904, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5764092507922743491, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1930053342, guid: 84637a251f718b84781a88eaba0190d2, type: 3}
+    - target: {fileID: 5764092507922743491, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_SortingLayer
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5764092507922743491, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_SortingLayerID
+      value: -298531161
+      objectReference: {fileID: 0}
+    - target: {fileID: 9133291629891035629, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      propertyPath: m_Name
+      value: TopPillar3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 5458920013098542904, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1366352723}
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 9133291629891035629, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1089616203}
+  m_SourcePrefab: {fileID: 100100000, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+--- !u!4 &1089616201 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5458920013098542904, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+  m_PrefabInstance: {fileID: 1089616200}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1089616202 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9133291629891035629, guid: 18b701aef766b314a920affacfb66db1, type: 3}
+  m_PrefabInstance: {fileID: 1089616200}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1089616203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1089616202}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64cda76f86af77345b7a405d7bfa1c0c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  escape: {fileID: 798896087}
+--- !u!1 &1095599351
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1095599354}
+  - component: {fileID: 1095599353}
+  - component: {fileID: 1095599352}
+  m_Layer: 5
+  m_Name: Pillar4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!114 &1095599352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1095599351}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.5471698, g: 0.5471698, b: 0.5471698, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1095599353
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1095599351}
+  m_CullTransparentMesh: 1
+--- !u!224 &1095599354
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1095599351}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1347685075}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1347685071
 GameObject:
   m_ObjectHideFlags: 0
@@ -4143,6 +4334,8 @@ RectTransform:
   - {fileID: 830110195}
   - {fileID: 410183199}
   - {fileID: 2112396864}
+  - {fileID: 798896088}
+  - {fileID: 1095599354}
   - {fileID: 1769015515}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -4164,6 +4357,72 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   journalUI: {fileID: 830110194}
+--- !u!1001 &1366352722
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1089616201}
+    m_Modifications:
+    - target: {fileID: 2633846178351620643, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+      propertyPath: m_Name
+      value: InteractibleCircle
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.84
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.41
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+--- !u!4 &1366352723 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+  m_PrefabInstance: {fileID: 1366352722}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1399423688
 GameObject:
   m_ObjectHideFlags: 0
@@ -4803,285 +5062,68 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Total Expense
-
-    month 1
-
-    
-
-    50 for trip (Hague)
-
-    60
-    for utrecht
-
-    55 for antwerp
-
-    50 for cycle
-
-    23 for sim
-
-    26
-    for train
+  m_text: 'They are mainly governed by "The Doctrine of Equal Light" which holds
+    the teaching of their deities, Aelora - The Creator and Vaernis -  The Caretaker.
+    The Luminar live by the belief that "All Life Is Sacred" and "No Life Must Come
+    To An End By Human Hands"
 
     
 
-    food:
-
-    10.80 (lidl 16/8/25)
-
-    0.92 (lidl 17/8/25)
-
-    8.38
-    (jumbo 17/8/25)
-
-    10.47 (lidl 19/8/25)
-
-    17.86 (jumbo 22/8/25)
-
-    13.00
-    (saturday market)
-
-    3.84 (lidl 24/8/25)
-
-    1.84 (lidl 25/8/25)
-
-    12.98
-    (lidl 27/8/25)
-
-    8.93 (lidl 31/8/25)
-
-    5.56 (lidl 5/9/25)
-
-    14.04
-    (saturday market)
-
-    16.28 (jumbo 6/9/25)
-
-    7.36 (action 8/9/25)
-
-    11.75
-    (lidl 9/9/25)
-
-    1.97 (action 11/9/25)
-
-    10 (saturday market)
-
-    5.42
-    (lidl 14/9/25)
-
-    total - 165~
+    It is nature that is responsible for maintaining
+    its order not humans. No one shall hurt a human or beast, no one shall hurt a
+    bird or insect. Each living being has its fate, help them if you can, step back
+    if you cannot. Never willfully harm any of Aelora''s creations, for creations
+    harmed at the hands of humans do not find Vaernis''s embrace at the end of their
+    life.
 
     
 
-    month 2
-
-    5 (club)
-
-    5.25
-    (happy meal)
-
-    12.92 (supplies)
-
-    3.99 (Action 24/9/25)
+    The Luminar are divided by roles but never by class, all are
+    equal before gods'' eyes.
 
     
 
-    
-
-    Switzerland
-    and Italy Trip :
-
-    
-
-    mcdonalds (11/10/25) (5 euro)
+    They are lead by two groups working together,
+    The Priests, who preach the word of god and help all practice spirituality, and
+    The Scholars, who seek explanations to natural phenomenon and teach all the way
+    the world works.
 
     
 
-    Lucerne:
-
-    Silver
-    Trip ticket (90.20 CHF)
-
-    coop (5.65 CHF)
-
-    locker (8CHF)
-
-    post
-    card (1 CHF)
-
-    train ticket (4CHF)
+    There are also the disciples, who train to replace
+    the priests and scholars once they have served their time, the engineers, who
+    study under the scholars and apply their learnings to create tools to help the
+    people, and the doctors, tasked with protecting against diseases and helping
+    people heal.
 
     
 
-    Lucerne to Milan Tickets
-    (35.97)
+    Then come the farmers and the common folk, everyone
+    on them work their part in keeping the society running.
 
     
 
-    Milan:
-
-    brescia to milan tickets (16.20 euro)
-
-    bus(2.20
-    euro)
-
-    metro(2.20 euro)
-
-    tram(1.70 euro)
-
-    lunch (36 euro)
-
-    crazy
-    cat cafe (13.00 euro)
-
-    milan to brescia ticket(8.10 euro)
-
-    mine - 76
+    The children
+    are educated in both worldly knowledge and faith since childhood. The first phrase
+    every child is taught is "All Life is Sacred".
 
     
 
-    Venice:
+    No one is allowed
+    to stray from the path of no harm, those that do are reprimanded in numerous
+    ways:
 
-    ticket
-    to and from venice (32 euro)
+    Being given extra work for the day to show their repentance.
 
-    palazzo ducale ticket (30 euro)
+    Given
+    a "sentence of silence" where they must reflect upon their actions alone.
 
-    brunch
-    (20.70 euro)
+    In
+    the worst case, they are sentenced to the labyrinth, where they must rediscover
+    themselves and relearn everything about the society''s teachings which they must
+    use to solve puzzles to re-emerge a new and better person.
 
-    pads (3.45 euro)
-
-    gelato (2.50 euro)
-
-    ferry (9.50
-    euro)
-
-    
-
-    mine - 85
-
-    
-
-    Iseo:
-
-    brescia to iseo tickets
-    (7.20 euro)
-
-    ferry (10.20 euro)
-
-    lunch (32 euro)
-
-    KFC (2.80 euro)
-
-    
-
-    mine
-    - 52
-
-    
-
-    Zurich:
-
-    milan to zurich (50 euro)
-
-    metro (1.70 euro)
-
-    locker
-    (12 CHF)
-
-    ferry (4.60 CHF)
-
-    lidl (3 CHF)
-
-    bus (2.80 CHF)
-
-    lidl
-    (1.45 CHF)
-
-    Lindt museum (15CHF)
-
-    
-
-    Frankfurt:
-
-    mcd (7.88
-    euro)
-
-    burger king (5.18 euro)
-
-    
-
-    total - 450
-
-    
-
-    food:
-
-    3.64
-    (lidl 15/9/25)
-
-    1.81 (lidl 17/9/25)
-
-    4.14 (lidl 18/9/25)
-
-    7.60
-    (lidl 19/9/25)
-
-    5.85 (saturday market 20/9/25)
-
-    2.35 (lidl 22/9/25)
-
-    10.16
-    (lidl 23/9/25)
-
-    8.45 (lidl 26/9/25)
-
-    11.02 (jumbo 27/9/25)
-
-    1.89
-    (lidl 28/9/25)
-
-    6.25 (lidl 1/10/25)
-
-    1.85 (lidl 2/10/25)
-
-    6.25
-    (saturday market 4/10/25)
-
-    15.92 (lidl 5/10/25)
-
-    4.95 (lidl 7/10/25)
-
-    0.79
-    (lidl 8/10/25)
-
-    1.88 (lidl 9/10/25)
-
-    6.20 (saturday market)
-
-    3.07
-    (lidl 11/10/25)
-
-    
-
-    month 3
-
-    
-
-    food:
-
-    4.99 (lidl 18/10/25)
-
-    3.33
-    (jumbo 18/10/25)
-
-    5.99 (lidl 21/10/25)
-
-    7.36 (lidl 24/10/25)
-
-    22.59
-    (lidl 25/10/25)'
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5182,7 +5224,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b1bc61a5d7e4a534ab69246c71b2f6af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  inInRange: 0
+  isInRange: 0
   interactAction:
     m_PersistentCalls:
       m_Calls:
@@ -5477,285 +5519,68 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Total Expense
-
-    month 1
-
-    
-
-    50 for trip (Hague)
-
-    60
-    for utrecht
-
-    55 for antwerp
-
-    50 for cycle
-
-    23 for sim
-
-    26
-    for train
+  m_text: 'They are mainly governed by "The Doctrine of Equal Light" which holds
+    the teaching of their deities, Aelora - The Creator and Vaernis -  The Caretaker.
+    The Luminar live by the belief that "All Life Is Sacred" and "No Life Must Come
+    To An End By Human Hands"
 
     
 
-    food:
-
-    10.80 (lidl 16/8/25)
-
-    0.92 (lidl 17/8/25)
-
-    8.38
-    (jumbo 17/8/25)
-
-    10.47 (lidl 19/8/25)
-
-    17.86 (jumbo 22/8/25)
-
-    13.00
-    (saturday market)
-
-    3.84 (lidl 24/8/25)
-
-    1.84 (lidl 25/8/25)
-
-    12.98
-    (lidl 27/8/25)
-
-    8.93 (lidl 31/8/25)
-
-    5.56 (lidl 5/9/25)
-
-    14.04
-    (saturday market)
-
-    16.28 (jumbo 6/9/25)
-
-    7.36 (action 8/9/25)
-
-    11.75
-    (lidl 9/9/25)
-
-    1.97 (action 11/9/25)
-
-    10 (saturday market)
-
-    5.42
-    (lidl 14/9/25)
-
-    total - 165~
+    It is nature that is responsible for maintaining
+    its order not humans. No one shall hurt a human or beast, no one shall hurt a
+    bird or insect. Each living being has its fate, help them if you can, step back
+    if you cannot. Never willfully harm any of Aelora''s creations, for creations
+    harmed at the hands of humans do not find Vaernis''s embrace at the end of their
+    life.
 
     
 
-    month 2
-
-    5 (club)
-
-    5.25
-    (happy meal)
-
-    12.92 (supplies)
-
-    3.99 (Action 24/9/25)
+    The Luminar are divided by roles but never by class, all are
+    equal before gods'' eyes.
 
     
 
-    
-
-    Switzerland
-    and Italy Trip :
-
-    
-
-    mcdonalds (11/10/25) (5 euro)
+    They are lead by two groups working together,
+    The Priests, who preach the word of god and help all practice spirituality, and
+    The Scholars, who seek explanations to natural phenomenon and teach all the way
+    the world works.
 
     
 
-    Lucerne:
-
-    Silver
-    Trip ticket (90.20 CHF)
-
-    coop (5.65 CHF)
-
-    locker (8CHF)
-
-    post
-    card (1 CHF)
-
-    train ticket (4CHF)
+    There are also the disciples, who train to replace
+    the priests and scholars once they have served their time, the engineers, who
+    study under the scholars and apply their learnings to create tools to help the
+    people, and the doctors, tasked with protecting against diseases and helping
+    people heal.
 
     
 
-    Lucerne to Milan Tickets
-    (35.97)
+    Then come the farmers and the common folk, everyone
+    on them work their part in keeping the society running.
 
     
 
-    Milan:
-
-    brescia to milan tickets (16.20 euro)
-
-    bus(2.20
-    euro)
-
-    metro(2.20 euro)
-
-    tram(1.70 euro)
-
-    lunch (36 euro)
-
-    crazy
-    cat cafe (13.00 euro)
-
-    milan to brescia ticket(8.10 euro)
-
-    mine - 76
+    The children
+    are educated in both worldly knowledge and faith since childhood. The first phrase
+    every child is taught is "All Life is Sacred".
 
     
 
-    Venice:
+    No one is allowed
+    to stray from the path of no harm, those that do are reprimanded in numerous
+    ways:
 
-    ticket
-    to and from venice (32 euro)
+    Being given extra work for the day to show their repentance.
 
-    palazzo ducale ticket (30 euro)
+    Given
+    a "sentence of silence" where they must reflect upon their actions alone.
 
-    brunch
-    (20.70 euro)
+    In
+    the worst case, they are sentenced to the labyrinth, where they must rediscover
+    themselves and relearn everything about the society''s teachings which they must
+    use to solve puzzles to re-emerge a new and better person.
 
-    pads (3.45 euro)
-
-    gelato (2.50 euro)
-
-    ferry (9.50
-    euro)
-
-    
-
-    mine - 85
-
-    
-
-    Iseo:
-
-    brescia to iseo tickets
-    (7.20 euro)
-
-    ferry (10.20 euro)
-
-    lunch (32 euro)
-
-    KFC (2.80 euro)
-
-    
-
-    mine
-    - 52
-
-    
-
-    Zurich:
-
-    milan to zurich (50 euro)
-
-    metro (1.70 euro)
-
-    locker
-    (12 CHF)
-
-    ferry (4.60 CHF)
-
-    lidl (3 CHF)
-
-    bus (2.80 CHF)
-
-    lidl
-    (1.45 CHF)
-
-    Lindt museum (15CHF)
-
-    
-
-    Frankfurt:
-
-    mcd (7.88
-    euro)
-
-    burger king (5.18 euro)
-
-    
-
-    total - 450
-
-    
-
-    food:
-
-    3.64
-    (lidl 15/9/25)
-
-    1.81 (lidl 17/9/25)
-
-    4.14 (lidl 18/9/25)
-
-    7.60
-    (lidl 19/9/25)
-
-    5.85 (saturday market 20/9/25)
-
-    2.35 (lidl 22/9/25)
-
-    10.16
-    (lidl 23/9/25)
-
-    8.45 (lidl 26/9/25)
-
-    11.02 (jumbo 27/9/25)
-
-    1.89
-    (lidl 28/9/25)
-
-    6.25 (lidl 1/10/25)
-
-    1.85 (lidl 2/10/25)
-
-    6.25
-    (saturday market 4/10/25)
-
-    15.92 (lidl 5/10/25)
-
-    4.95 (lidl 7/10/25)
-
-    0.79
-    (lidl 8/10/25)
-
-    1.88 (lidl 9/10/25)
-
-    6.20 (saturday market)
-
-    3.07
-    (lidl 11/10/25)
-
-    
-
-    month 3
-
-    
-
-    food:
-
-    4.99 (lidl 18/10/25)
-
-    3.33
-    (jumbo 18/10/25)
-
-    5.99 (lidl 21/10/25)
-
-    7.36 (lidl 24/10/25)
-
-    22.59
-    (lidl 25/10/25)'
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -11941,6 +11766,8 @@ Transform:
   - {fileID: 4611420894941866806}
   - {fileID: 1837487377}
   - {fileID: 1561210675}
+  - {fileID: 1089616201}
+  - {fileID: 596227720}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2028115799 stripped
@@ -11965,7 +11792,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b1bc61a5d7e4a534ab69246c71b2f6af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  inInRange: 0
+  isInRange: 0
   interactAction:
     m_PersistentCalls:
       m_Calls:
