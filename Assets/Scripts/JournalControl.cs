@@ -15,6 +15,7 @@ public class JournalControl : MonoBehaviour
         if(Keyboard.current.jKey.wasPressedThisFrame)
         {
             journalUI.SetActive(!journalUI.activeSelf);
+            Time.timeScale = journalUI.activeSelf ? 0f : 1f;
         }
     }
 }
