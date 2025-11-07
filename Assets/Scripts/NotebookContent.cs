@@ -7,10 +7,10 @@ using UnityEngine.InputSystem;
 
     public class NotebookContents : MonoBehaviour
 {
-        public static String Content1 = "<sprite name=\"glyphs-transparent_3\"><sprite name=\"glyphs-transparent_19\"><sprite name=\"glyphs-transparent_1\"><sprite name=\"glyphs-transparent_2\">";
-        public static String Content2 = "<sprite name=\"glyphs-transparent_3\"><sprite name=\"glyphs-transparent_20\"><sprite name=\"glyphs-transparent_34\">";
-        public static String Content3 = "<sprite name=\"glyphs-transparent_27\"><sprite name=\"glyphs-transparent_9\"><sprite name=\"glyphs-transparent_30\">";
-        public static String Content4 = "<sprite name=\"glyphs-transparent_34\"><sprite name=\"glyphs-transparent_9\"><sprite name=\"glyphs-transparent_30\">";
+        public static String Content1 = "\r\n<sprite name=\"glyphs-transparent_3\">  <sprite name=\"glyphs-transparent_19\">  <sprite name=\"glyphs-transparent_1\">  <sprite name=\"glyphs-transparent_2\">";
+        public static String Content2 = "\r\n<sprite name=\"glyphs-transparent_3\">  <sprite name=\"glyphs-transparent_20\">  <sprite name=\"glyphs-transparent_34\">";
+        public static String Content3 = "\r\n<sprite name=\"glyphs-transparent_27\">  <sprite name=\"glyphs-transparent_9\">  <sprite name=\"glyphs-transparent_30\">";
+        public static String Content4 = "\r\n<sprite name=\"glyphs-transparent_34\"><sprite name=\"glyphs-transparent_9\"><sprite name=\"glyphs-transparent_30\">";
 
         
         [TextArea(10, 20)] [SerializeField] private static string content = "My name is alice.";
