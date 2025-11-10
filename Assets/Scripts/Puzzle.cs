@@ -15,4 +15,9 @@ public class Puzzle : MonoBehaviour
         Debug.Log(isActive ? "UI closed" : "UI opened");
         Time.timeScale = isActive ? 1f : 0f;
     }
+
+    public void LoadNextLevel()
+    {
+        
+    }
 }
