@@ -4,6 +4,7 @@ using UnityEngine.InputSystem;
 
 public class Interact : MonoBehaviour
 {
+    public int pillar;
     public bool isInRange = false;
     public UnityEvent interactAction;
 
@@ -12,6 +13,7 @@ public class Interact : MonoBehaviour
     {
         if (isInRange && Keyboard.current.eKey.wasPressedThisFrame)
         {
+            JournalMechanics.inter(pillar);
             interactAction.Invoke();
         }
     }

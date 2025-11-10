@@ -1,10 +1,193 @@
 fileFormatVersion: 2
-guid: 7729c857790fef84e9205d38f9783fe7
+guid: f62d28243d40f9e46a04daff67452881
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5696950014853144243
-    second: glyphs-export_0
+      213: -933280589640943000
+    second: glyphs-transparent_0
+  - first:
+      213: 1178787036052354495
+    second: glyphs-transparent_1
+  - first:
+      213: -5599492902241643687
+    second: glyphs-transparent_2
+  - first:
+      213: 7682683992451082478
+    second: glyphs-transparent_3
+  - first:
+      213: -3700420901108801516
+    second: glyphs-transparent_4
+  - first:
+      213: 1584466114694043424
+    second: glyphs-transparent_5
+  - first:
+      213: -1459075500290823033
+    second: glyphs-transparent_6
+  - first:
+      213: -1556171257085659473
+    second: glyphs-transparent_7
+  - first:
+      213: -4083589982457031025
+    second: glyphs-transparent_8
+  - first:
+      213: 5681636914458983808
+    second: glyphs-transparent_9
+  - first:
+      213: 1843404052828911163
+    second: glyphs-transparent_10
+  - first:
+      213: 8825567618633508555
+    second: glyphs-transparent_11
+  - first:
+      213: 4018223809769970622
+    second: glyphs-transparent_12
+  - first:
+      213: -5664131789945207235
+    second: glyphs-transparent_13
+  - first:
+      213: -4484761571876687895
+    second: glyphs-transparent_14
+  - first:
+      213: 5976049919860903574
+    second: glyphs-transparent_15
+  - first:
+      213: 9123691987168229023
+    second: glyphs-transparent_16
+  - first:
+      213: 1202711873498237092
+    second: glyphs-transparent_17
+  - first:
+      213: -1362655139899636335
+    second: glyphs-transparent_18
+  - first:
+      213: 6468695566825323543
+    second: glyphs-transparent_19
+  - first:
+      213: 110811729505462854
+    second: glyphs-transparent_20
+  - first:
+      213: -7239804202584963452
+    second: glyphs-transparent_21
+  - first:
+      213: 5278023111043401703
+    second: glyphs-transparent_22
+  - first:
+      213: 1706137519689374340
+    second: glyphs-transparent_23
+  - first:
+      213: 7770843254316112186
+    second: glyphs-transparent_24
+  - first:
+      213: -3612865113553010406
+    second: glyphs-transparent_25
+  - first:
+      213: -1572799794511834045
+    second: glyphs-transparent_26
+  - first:
+      213: 8165771063280622298
+    second: glyphs-transparent_27
+  - first:
+      213: -5043002083005963550
+    second: glyphs-transparent_28
+  - first:
+      213: -7636585348059414159
+    second: glyphs-transparent_29
+  - first:
+      213: -4798587683873319815
+    second: glyphs-transparent_30
+  - first:
+      213: 7905886547130131567
+    second: glyphs-transparent_31
+  - first:
+      213: 4612344071782418132
+    second: glyphs-transparent_32
+  - first:
+      213: 3822477697049876629
+    second: glyphs-transparent_33
+  - first:
+      213: -389936443671322459
+    second: glyphs-transparent_34
+  - first:
+      213: 114227103307032298
+    second: glyphs-transparent_35
+  - first:
+      213: -8258189858546486286
+    second: glyphs-transparent_36
+  - first:
+      213: 1344223311318300596
+    second: glyphs-transparent_37
+  - first:
+      213: -1510756093387232286
+    second: glyphs-transparent_38
+  - first:
+      213: -8951407058050917940
+    second: glyphs-transparent_39
+  - first:
+      213: 6175050876306977946
+    second: glyphs-transparent_40
+  - first:
+      213: 6338450461093999311
+    second: glyphs-transparent_41
+  - first:
+      213: 3734375900459399743
+    second: glyphs-transparent_42
+  - first:
+      213: 285811647746534120
+    second: glyphs-transparent_43
+  - first:
+      213: -3123564711188076383
+    second: glyphs-transparent_44
+  - first:
+      213: -6871732864687189797
+    second: glyphs-transparent_45
+  - first:
+      213: -8181563267917446792
+    second: glyphs-transparent_46
+  - first:
+      213: -4813504700352161111
+    second: glyphs-transparent_47
+  - first:
+      213: 7338992858664740172
+    second: glyphs-transparent_48
+  - first:
+      213: 8016509403201333059
+    second: glyphs-transparent_49
+  - first:
+      213: 6341088924116386848
+    second: glyphs-transparent_50
+  - first:
+      213: 1507091686872926370
+    second: glyphs-transparent_51
+  - first:
+      213: 1151405741560727288
+    second: glyphs-transparent_52
+  - first:
+      213: 5563902163459875957
+    second: glyphs-transparent_53
+  - first:
+      213: -1373658068950201623
+    second: glyphs-transparent_54
+  - first:
+      213: 2793197858180645091
+    second: glyphs-transparent_55
+  - first:
+      213: -4194478706087812335
+    second: glyphs-transparent_56
+  - first:
+      213: -8150125632061169343
+    second: glyphs-transparent_57
+  - first:
+      213: -8864485747331513386
+    second: glyphs-transparent_58
+  - first:
+      213: 824968511135138222
+    second: glyphs-transparent_59
+  - first:
+      213: 5189626344528342811
+    second: glyphs-transparent_60
+  - first:
+      213: -6412767215084711366
+    second: glyphs-transparent_61
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +283,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: glyphs-export_0
+      name: glyphs-transparent_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,14 +298,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d41a58d252e50f0b0800000000000000
-      internalID: -5696950014853144243
+      spriteID: 86a3faa9f325c03f0800000000000000
+      internalID: -933280589640943000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_1
+      name: glyphs-transparent_1
       rect:
         serializedVersion: 2
         x: 160
@@ -135,16 +318,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 23a24e417c5dca2428d4c141015ec98e
-      internalID: 1880630655
+      spriteID: fb57cb55094eb5010800000000000000
+      internalID: 1178787036052354495
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_2
+      name: glyphs-transparent_2
       rect:
         serializedVersion: 2
         x: 320
@@ -157,16 +340,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 478e2813437b329409bd1b5edf772825
-      internalID: -91719939
+      spriteID: 953d09f6fda9a42b0800000000000000
+      internalID: -5599492902241643687
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_3
+      name: glyphs-transparent_3
       rect:
         serializedVersion: 2
         x: 480
@@ -179,16 +362,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 88c18f785c410a748992fad7e2357fad
-      internalID: -321118029
+      spriteID: ee860a3f2606e9a60800000000000000
+      internalID: 7682683992451082478
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_4
+      name: glyphs-transparent_4
       rect:
         serializedVersion: 2
         x: 640
@@ -201,16 +384,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c0e0cc03bb886de4b9c58110af6d81c0
-      internalID: -1260900966
+      spriteID: 410aafdcbc675acc0800000000000000
+      internalID: -3700420901108801516
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_5
+      name: glyphs-transparent_5
       rect:
         serializedVersion: 2
         x: 800
@@ -223,16 +406,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 05554162f7576b9408a0b0ba60477dee
-      internalID: 1141655233
+      spriteID: 0275bf459872df510800000000000000
+      internalID: 1584466114694043424
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_6
+      name: glyphs-transparent_6
       rect:
         serializedVersion: 2
         x: 960
@@ -245,16 +428,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 155d009cbf9b81a43931aae7b7f14a4a
-      internalID: 104073314
+      spriteID: 78ca0b0209250cbe0800000000000000
+      internalID: -1459075500290823033
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_7
+      name: glyphs-transparent_7
       rect:
         serializedVersion: 2
         x: 1120
@@ -267,16 +450,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 660fe0163bc458e40a78ed023211ddb6
-      internalID: 691717030
+      spriteID: fa67cb39c7e576ae0800000000000000
+      internalID: -1556171257085659473
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_8
+      name: glyphs-transparent_8
       rect:
         serializedVersion: 2
         x: 0
@@ -289,16 +472,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: b927dc8fdb762f0448ea2fd8f5574ce2
-      internalID: 1200495545
+      spriteID: f861e47fb8c2457c0800000000000000
+      internalID: -4083589982457031025
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_9
+      name: glyphs-transparent_9
       rect:
         serializedVersion: 2
         x: 160
@@ -311,16 +494,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: bd116d7e1b493a84b98256dc7a5736f2
-      internalID: 1154490702
+      spriteID: 08df21dcbaa39de40800000000000000
+      internalID: 5681636914458983808
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_10
+      name: glyphs-transparent_10
       rect:
         serializedVersion: 2
         x: 320
@@ -333,16 +516,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 0d6aa95994aa56640b0114df64166a4f
-      internalID: 1424571767
+      spriteID: b36f1622836159910800000000000000
+      internalID: 1843404052828911163
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_11
+      name: glyphs-transparent_11
       rect:
         serializedVersion: 2
         x: 480
@@ -355,16 +538,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 3a5732c47f9d9414d8d0ee05b2e2add2
-      internalID: -264887950
+      spriteID: bc627d14df6ba7a70800000000000000
+      internalID: 8825567618633508555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_12
+      name: glyphs-transparent_12
       rect:
         serializedVersion: 2
         x: 640
@@ -377,16 +560,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 1226ea9d3dc93394b95ef7812bd2d2aa
-      internalID: -406330005
+      spriteID: ebb1b59f34993c730800000000000000
+      internalID: 4018223809769970622
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_13
+      name: glyphs-transparent_13
       rect:
         serializedVersion: 2
         x: 800
@@ -399,16 +582,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 74f34dc4e665b754cbc2e387c34cb919
-      internalID: 882867669
+      spriteID: d36815b9526f461b0800000000000000
+      internalID: -5664131789945207235
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_14
+      name: glyphs-transparent_14
       rect:
         serializedVersion: 2
         x: 960
@@ -421,16 +604,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 046e27d7e06a2934280d670b91f00934
-      internalID: 224110077
+      spriteID: 9efa7f59c1de2c1c0800000000000000
+      internalID: -4484761571876687895
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_15
+      name: glyphs-transparent_15
       rect:
         serializedVersion: 2
         x: 1120
@@ -443,16 +626,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 8976b62b7a1473a45bc1e6044d24e5b7
-      internalID: -401092934
+      spriteID: 69e8f495db13fe250800000000000000
+      internalID: 5976049919860903574
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_16
+      name: glyphs-transparent_16
       rect:
         serializedVersion: 2
         x: 0
@@ -465,16 +648,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 5f8d7b41195e90b4ea46bebaffaed9e7
-      internalID: -692044791
+      spriteID: f967d3fd58ddd9e70800000000000000
+      internalID: 9123691987168229023
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_17
+      name: glyphs-transparent_17
       rect:
         serializedVersion: 2
         x: 160
@@ -487,16 +670,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 7af37e4047d33b544881e7aab4dbd055
-      internalID: 1347394128
+      spriteID: 4a8c103a314e0b010800000000000000
+      internalID: 1202711873498237092
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_18
+      name: glyphs-transparent_18
       rect:
         serializedVersion: 2
         x: 320
@@ -509,16 +692,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: bd0b4c5b98f2f2f4cab27034c21d61dd
-      internalID: 1133384742
+      spriteID: 1950ce2be50e61de0800000000000000
+      internalID: -1362655139899636335
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_19
+      name: glyphs-transparent_19
       rect:
         serializedVersion: 2
         x: 480
@@ -531,16 +714,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: d2051a6f256199d42ac5ffe5e2055c04
-      internalID: 789661559
+      spriteID: 71c74cc685c65c950800000000000000
+      internalID: 6468695566825323543
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_20
+      name: glyphs-transparent_20
       rect:
         serializedVersion: 2
         x: 640
@@ -553,16 +736,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 02cdbcebe6a2fb144875be6be57ae956
-      internalID: 1247106836
+      spriteID: 64aae1e4eaea98100800000000000000
+      internalID: 110811729505462854
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_21
+      name: glyphs-transparent_21
       rect:
         serializedVersion: 2
         x: 800
@@ -575,16 +758,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: fb5d24c7da2d3334f94843fbd7809d91
-      internalID: 2033976632
+      spriteID: 4860b859f6c078b90800000000000000
+      internalID: -7239804202584963452
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_22
+      name: glyphs-transparent_22
       rect:
         serializedVersion: 2
         x: 960
@@ -597,16 +780,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 901de77c4fc1d9143bc8b91951ea1272
-      internalID: -315500237
+      spriteID: 7e74b0a2e0e4f3940800000000000000
+      internalID: 5278023111043401703
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_23
+      name: glyphs-transparent_23
       rect:
         serializedVersion: 2
         x: 1120
@@ -619,16 +802,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f560d8aa1d34f0547a00434c3285cb4f
-      internalID: 1116626362
+      spriteID: 48a1d0fd80b6da710800000000000000
+      internalID: 1706137519689374340
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_24
+      name: glyphs-transparent_24
       rect:
         serializedVersion: 2
         x: 0
@@ -641,16 +824,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6c7d60a9967f2a2429c2d376c1e5603f
-      internalID: -185931383
+      spriteID: a3990c2a4c497db60800000000000000
+      internalID: 7770843254316112186
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_25
+      name: glyphs-transparent_25
       rect:
         serializedVersion: 2
         x: 160
@@ -663,16 +846,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 98ebf40b786ec8d4ebedee40b7533ba6
-      internalID: -1948604897
+      spriteID: a11854d22568cddc0800000000000000
+      internalID: -3612865113553010406
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_26
+      name: glyphs-transparent_26
       rect:
         serializedVersion: 2
         x: 320
@@ -685,16 +868,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 4c484b7c2cf92cd4689c61712f9fcc44
-      internalID: 941509930
+      spriteID: 34490518bea4c2ae0800000000000000
+      internalID: -1572799794511834045
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_27
+      name: glyphs-transparent_27
       rect:
         serializedVersion: 2
         x: 480
@@ -707,16 +890,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: b5e628f37ac181249b98863b9af119f8
-      internalID: 653491780
+      spriteID: ada51089485a25170800000000000000
+      internalID: 8165771063280622298
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_28
+      name: glyphs-transparent_28
       rect:
         serializedVersion: 2
         x: 640
@@ -729,16 +912,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 064eaa976021ca548ab8c9694c769e2e
-      internalID: 94414218
+      spriteID: 2e2efd01358a30ab0800000000000000
+      internalID: -5043002083005963550
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_29
+      name: glyphs-transparent_29
       rect:
         serializedVersion: 2
         x: 800
@@ -751,16 +934,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f4be9d9a4374e744e90be8d0259328f7
-      internalID: -616928893
+      spriteID: 17147f71616650690800000000000000
+      internalID: -7636585348059414159
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_30
+      name: glyphs-transparent_30
       rect:
         serializedVersion: 2
         x: 960
@@ -773,16 +956,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 5bcafeb3a869f2843b2a0d6840e73b06
-      internalID: -396846760
+      spriteID: 9749a2fecedf76db0800000000000000
+      internalID: -4798587683873319815
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_31
+      name: glyphs-transparent_31
       rect:
         serializedVersion: 2
         x: 1120
@@ -795,16 +978,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 777048b745ba2b24896c83699af93a3e
-      internalID: -1865948954
+      spriteID: f642b3c6de957bd60800000000000000
+      internalID: 7905886547130131567
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_32
+      name: glyphs-transparent_32
       rect:
         serializedVersion: 2
         x: 0
@@ -817,16 +1000,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 0797b8ee8d1fa4f42b0bd024e3dcb328
-      internalID: -644827508
+      spriteID: 4d6487cfe76520040800000000000000
+      internalID: 4612344071782418132
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_33
+      name: glyphs-transparent_33
       rect:
         serializedVersion: 2
         x: 160
@@ -839,16 +1022,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 8a1773203f0828c4e8e14f26b5bef4c1
-      internalID: -1160890458
+      spriteID: 598d28e863b2c0530800000000000000
+      internalID: 3822477697049876629
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_34
+      name: glyphs-transparent_34
       rect:
         serializedVersion: 2
         x: 320
@@ -861,16 +1044,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 447b9a9f1441e5d4dad68ac4f64f5980
-      internalID: 1347842179
+      spriteID: 5a0edf5dedaa69af0800000000000000
+      internalID: -389936443671322459
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_35
+      name: glyphs-transparent_35
       rect:
         serializedVersion: 2
         x: 480
@@ -883,16 +1066,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a142393f8899dd24fa984e21885e6e65
-      internalID: -1427590511
+      spriteID: ae6665cf1f0d59100800000000000000
+      internalID: 114227103307032298
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_36
+      name: glyphs-transparent_36
       rect:
         serializedVersion: 2
         x: 640
@@ -905,16 +1088,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 3f8f2f9a1bde4f049baf4a66c332a4d2
-      internalID: -2042417129
+      spriteID: 2f37a91d314056d80800000000000000
+      internalID: -8258189858546486286
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_37
+      name: glyphs-transparent_37
       rect:
         serializedVersion: 2
         x: 800
@@ -927,16 +1110,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: bc4169ae12dd3dc44994cc5c4d9eeac3
-      internalID: 638857038
+      spriteID: 4b73de9caf3a7a210800000000000000
+      internalID: 1344223311318300596
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_38
+      name: glyphs-transparent_38
       rect:
         serializedVersion: 2
         x: 960
@@ -949,16 +1132,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9d4a38cd82ff14a42ac146faed90881e
-      internalID: -426262863
+      spriteID: 2eba56f5657b80be0800000000000000
+      internalID: -1510756093387232286
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_39
+      name: glyphs-transparent_39
       rect:
         serializedVersion: 2
         x: 1120
@@ -971,16 +1154,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 929be8a4fe6ced748878930e2bde444a
-      internalID: 440008128
+      spriteID: cc953f015b636c380800000000000000
+      internalID: -8951407058050917940
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_40
+      name: glyphs-transparent_40
       rect:
         serializedVersion: 2
         x: 0
@@ -993,16 +1176,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 444e5d11cf493fc4faae30747a487129
-      internalID: -891726916
+      spriteID: a94fd302e0032b550800000000000000
+      internalID: 6175050876306977946
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_41
+      name: glyphs-transparent_41
       rect:
         serializedVersion: 2
         x: 160
@@ -1015,16 +1198,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: e0d56e2308a1eb34fae0359e6f574e28
-      internalID: 1651387051
+      spriteID: fc23bef9c13b6f750800000000000000
+      internalID: 6338450461093999311
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_42
+      name: glyphs-transparent_42
       rect:
         serializedVersion: 2
         x: 320
@@ -1037,16 +1220,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 1b55a186ab98ca94fb84cde213e85524
-      internalID: -332205083
+      spriteID: f3a79ac881b23d330800000000000000
+      internalID: 3734375900459399743
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_43
+      name: glyphs-transparent_43
       rect:
         serializedVersion: 2
         x: 480
@@ -1059,16 +1242,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: bef122e4c89f9b145b190ae85b0c2a32
-      internalID: -840267841
+      spriteID: 8eae998ed2867f300800000000000000
+      internalID: 285811647746534120
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_44
+      name: glyphs-transparent_44
       rect:
         serializedVersion: 2
         x: 640
@@ -1081,16 +1264,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 13eb77b3d9c73e74495355284e52672c
-      internalID: -76857856
+      spriteID: 1a860bcc17ed6a4d0800000000000000
+      internalID: -3123564711188076383
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: glyphs-export_45
+      name: glyphs-transparent_45
       rect:
         serializedVersion: 2
         x: 800
@@ -1103,54 +1286,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 16202dec0f2e9a54f8dd594b68b4bb80
-      internalID: -1528596744
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: glyphs-export_46
-      rect:
-        serializedVersion: 2
-        x: 960
-        y: 0
-        width: 160
-        height: 160
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c6f109b4f3490774f92cf2e4800eaf45
-      internalID: 818367760
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: glyphs-export_47
-      rect:
-        serializedVersion: 2
-        x: 1120
-        y: 0
-        width: 160
-        height: 160
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 893a8f47781dc604790b4ffaf83f5845
-      internalID: 466574427
+      spriteID: bd051f81e53b2a0a0800000000000000
+      internalID: -6871732864687189797
       vertices: []
       indices: 
       edges: []
@@ -1159,7 +1298,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: c2ce357e9e4974647affda9ad12afcc8
+    spriteID: 108c68acc64f2cc4a8fc61eceba3a0cb
     internalID: 0
     vertices: []
     indices: 
@@ -1171,54 +1310,52 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":6.0},"gridSpriteSize":{"x":160.0,"y":160.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      glyphs-export_0: -5696950014853144243
-      glyphs-export_1: 1880630655
-      glyphs-export_10: 1424571767
-      glyphs-export_11: -264887950
-      glyphs-export_12: -406330005
-      glyphs-export_13: 882867669
-      glyphs-export_14: 224110077
-      glyphs-export_15: -401092934
-      glyphs-export_16: -692044791
-      glyphs-export_17: 1347394128
-      glyphs-export_18: 1133384742
-      glyphs-export_19: 789661559
-      glyphs-export_2: -91719939
-      glyphs-export_20: 1247106836
-      glyphs-export_21: 2033976632
-      glyphs-export_22: -315500237
-      glyphs-export_23: 1116626362
-      glyphs-export_24: -185931383
-      glyphs-export_25: -1948604897
-      glyphs-export_26: 941509930
-      glyphs-export_27: 653491780
-      glyphs-export_28: 94414218
-      glyphs-export_29: -616928893
-      glyphs-export_3: -321118029
-      glyphs-export_30: -396846760
-      glyphs-export_31: -1865948954
-      glyphs-export_32: -644827508
-      glyphs-export_33: -1160890458
-      glyphs-export_34: 1347842179
-      glyphs-export_35: -1427590511
-      glyphs-export_36: -2042417129
-      glyphs-export_37: 638857038
-      glyphs-export_38: -426262863
-      glyphs-export_39: 440008128
-      glyphs-export_4: -1260900966
-      glyphs-export_40: -891726916
-      glyphs-export_41: 1651387051
-      glyphs-export_42: -332205083
-      glyphs-export_43: -840267841
-      glyphs-export_44: -76857856
-      glyphs-export_45: -1528596744
-      glyphs-export_46: 818367760
-      glyphs-export_47: 466574427
-      glyphs-export_5: 1141655233
-      glyphs-export_6: 104073314
-      glyphs-export_7: 691717030
-      glyphs-export_8: 1200495545
-      glyphs-export_9: 1154490702
+      glyphs-transparent_0: -933280589640943000
+      glyphs-transparent_1: 1178787036052354495
+      glyphs-transparent_10: 1843404052828911163
+      glyphs-transparent_11: 8825567618633508555
+      glyphs-transparent_12: 4018223809769970622
+      glyphs-transparent_13: -5664131789945207235
+      glyphs-transparent_14: -4484761571876687895
+      glyphs-transparent_15: 5976049919860903574
+      glyphs-transparent_16: 9123691987168229023
+      glyphs-transparent_17: 1202711873498237092
+      glyphs-transparent_18: -1362655139899636335
+      glyphs-transparent_19: 6468695566825323543
+      glyphs-transparent_2: -5599492902241643687
+      glyphs-transparent_20: 110811729505462854
+      glyphs-transparent_21: -7239804202584963452
+      glyphs-transparent_22: 5278023111043401703
+      glyphs-transparent_23: 1706137519689374340
+      glyphs-transparent_24: 7770843254316112186
+      glyphs-transparent_25: -3612865113553010406
+      glyphs-transparent_26: -1572799794511834045
+      glyphs-transparent_27: 8165771063280622298
+      glyphs-transparent_28: -5043002083005963550
+      glyphs-transparent_29: -7636585348059414159
+      glyphs-transparent_3: 7682683992451082478
+      glyphs-transparent_30: -4798587683873319815
+      glyphs-transparent_31: 7905886547130131567
+      glyphs-transparent_32: 4612344071782418132
+      glyphs-transparent_33: 3822477697049876629
+      glyphs-transparent_34: -389936443671322459
+      glyphs-transparent_35: 114227103307032298
+      glyphs-transparent_36: -8258189858546486286
+      glyphs-transparent_37: 1344223311318300596
+      glyphs-transparent_38: -1510756093387232286
+      glyphs-transparent_39: -8951407058050917940
+      glyphs-transparent_4: -3700420901108801516
+      glyphs-transparent_40: 6175050876306977946
+      glyphs-transparent_41: 6338450461093999311
+      glyphs-transparent_42: 3734375900459399743
+      glyphs-transparent_43: 285811647746534120
+      glyphs-transparent_44: -3123564711188076383
+      glyphs-transparent_45: -6871732864687189797
+      glyphs-transparent_5: 1584466114694043424
+      glyphs-transparent_6: -1459075500290823033
+      glyphs-transparent_7: -1556171257085659473
+      glyphs-transparent_8: -4083589982457031025
+      glyphs-transparent_9: 5681636914458983808
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,16 +1,52 @@
+using System;
 using TMPro;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
+    
 
-namespace ChristinaCreatesGames.Typography.Book
-{
     public class NotebookContents : MonoBehaviour
-    {
-        [TextArea(10, 20)] [SerializeField] private string content;
-        [Space] [SerializeField] private TMP_Text leftSide;
-        [SerializeField] private TMP_Text rightSide;
+{
+        public static String Content1 = "\r\n<sprite name=\"glyphs-transparent_3\">  <sprite name=\"glyphs-transparent_19\">  <sprite name=\"glyphs-transparent_1\">  <sprite name=\"glyphs-transparent_2\">";
+        public static String Content2 = "\r\n<sprite name=\"glyphs-transparent_3\">  <sprite name=\"glyphs-transparent_20\">  <sprite name=\"glyphs-transparent_34\">";
+        public static String Content3 = "\r\n<sprite name=\"glyphs-transparent_27\">  <sprite name=\"glyphs-transparent_9\">  <sprite name=\"glyphs-transparent_30\">";
+        public static String Content4 = "\r\n<sprite name=\"glyphs-transparent_34\"><sprite name=\"glyphs-transparent_9\"><sprite name=\"glyphs-transparent_30\">";
+
+        
+        [TextArea(10, 20)] [SerializeField] private static string content = "My name is alice.";
+        [Space] [SerializeField] private TextMeshProUGUI leftSide;
+    [SerializeField] private TextMeshProUGUI rightSide;
         //[Space] [SerializeField] private TMP_Text leftPagination;
         //[SerializeField] private TMP_Text rightPagination;
+        
+        void Update()
+        {
+            SetupContent();
+        }
+
+        public static void JournalUpdate(int pillar)
+    {
+        switch (pillar)
+        {
+            case 1:
+                content += Content1;
+                break;
+            case 2:
+                content += Content2;
+                break;
+            case 3:
+                content += Content3;
+                break;
+            case 4:
+                content += Content4;
+                break;
+            default:
+                Debug.Log("Invalid pillar number");
+                break;
+        }
+        
+    }
+       
 
         private void OnValidate()
         {
@@ -77,4 +113,3 @@ namespace ChristinaCreatesGames.Typography.Book
             //UpdatePagination();
         }
     }
-}
