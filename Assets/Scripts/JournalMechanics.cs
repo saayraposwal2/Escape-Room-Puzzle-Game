@@ -9,8 +9,9 @@ public class JournalMechanics : MonoBehaviour
 
   
 
-    public static void inter( int pillar)
+    public static void inter(int pillar)
     {
+        Debug.Log("Interacted with pillar " + pillar);
         switch (pillar)
         {
             case 1:

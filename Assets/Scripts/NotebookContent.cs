@@ -7,24 +7,37 @@ using UnityEngine.InputSystem;
 
     public class NotebookContents : MonoBehaviour
 {
-        public static String Content1 = "\r\n<sprite name=\"glyphs-transparent_3\">  <sprite name=\"glyphs-transparent_19\">  <sprite name=\"glyphs-transparent_1\">  <sprite name=\"glyphs-transparent_2\">";
-        public static String Content2 = "\r\n<sprite name=\"glyphs-transparent_3\">  <sprite name=\"glyphs-transparent_20\">  <sprite name=\"glyphs-transparent_34\">";
-        public static String Content3 = "\r\n<sprite name=\"glyphs-transparent_27\">  <sprite name=\"glyphs-transparent_9\">  <sprite name=\"glyphs-transparent_30\">";
-        public static String Content4 = "\r\n<sprite name=\"glyphs-transparent_34\"><sprite name=\"glyphs-transparent_9\"><sprite name=\"glyphs-transparent_30\">";
+        public static String Content1 = "\n<sprite name=\"glyphs-transparent_3\">  <sprite name=\"glyphs-transparent_19\">  <sprite name=\"glyphs-transparent_1\">  <sprite name=\"glyphs-transparent_2\">";
+        public static String Content2 = "\n<sprite name=\"glyphs-transparent_3\">  <sprite name=\"glyphs-transparent_20\">  <sprite name=\"glyphs-transparent_34\">";
+        public static String Content3 = "\n<sprite name=\"glyphs-transparent_27\">  <sprite name=\"glyphs-transparent_9\">  <sprite name=\"glyphs-transparent_30\">";
+        public static String Content4 = "\n<sprite name=\"glyphs-transparent_34\">  <sprite name=\"glyphs-transparent_9\">  <sprite name=\"glyphs-transparent_30\">";
 
         
-        [TextArea(10, 20)] [SerializeField] private static string content = "My name is alice.";
+        private static string content = "-These people were all practicing vegetarians.\n" +
+        "-They believed in non-violence towards all living beings.\n" +
+        "-They worshipped 2 gods.\n" +
+        "- <sprite name=\"glyphs-transparent_1\"> - is one of them\n" +
+        "- <sprite name=\"glyphs-transparent_2\"> - is the other one\n" +
+        "-Their language is fully symbolic.\n" +
+        "-Each symbol caries a specific meaning and they are combined to make sentences.\n" +
+        "-The symbols that already have concrete meanings are:\n" +
+        "- <sprite name=\"glyphs-transparent_3\"> means The people\n" +
+        "- <sprite name=\"glyphs-transparent_28\"> means kind\n" +
+        "- <sprite name=\"glyphs-transparent_33\"> means life\n" +
+        "- <sprite name=\"glyphs-transparent_34\"> means death\n\n" +
+        "-These people were well educated but also believed in gods and spirituality.\n";
         [Space] [SerializeField] private TextMeshProUGUI leftSide;
     [SerializeField] private TextMeshProUGUI rightSide;
-        //[Space] [SerializeField] private TMP_Text leftPagination;
-        //[SerializeField] private TMP_Text rightPagination;
-        
-        void Update()
-        {
-            SetupContent();
-        }
+    //[Space] [SerializeField] private TMP_Text leftPagination;
+    //[SerializeField] private TMP_Text rightPagination;
 
-        public static void JournalUpdate(int pillar)
+
+    void Update()
+    {
+        SetupContent();
+    }
+
+    public static void JournalUpdate(int pillar)
     {
         switch (pillar)
         {
