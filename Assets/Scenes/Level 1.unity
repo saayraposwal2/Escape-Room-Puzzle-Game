@@ -6295,6 +6295,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   correctAnswer: abcd
+  completeMessageUI: {fileID: 1811801676}
+  LevelLoader: {fileID: 2086395648}
 --- !u!1 &1829865781
 GameObject:
   m_ObjectHideFlags: 0
@@ -13223,6 +13225,7 @@ GameObject:
   - component: {fileID: 2086395645}
   - component: {fileID: 2086395646}
   - component: {fileID: 2086395647}
+  - component: {fileID: 2086395648}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -13440,6 +13443,10 @@ MonoBehaviour:
       m_Calls: []
     m_ActionId: 9caa3d8a-6b2f-4e8e-8bad-6ede561bd9be
     m_ActionName: UI/TrackedDeviceOrientation
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 757e586a-be35-4f4d-8865-ec3cd0185393
+    m_ActionName: 'Journal/openjournal[/Keyboard/q]'
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: 
   m_DefaultActionMap: Player
@@ -13504,6 +13511,20 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.23, y: 0.46}
   m_EdgeRadius: 0
+--- !u!114 &2086395648
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2086395640}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24b7b75dda628924d8371d2c89e1b259, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  delayBeforeNextScene: 2
+  nextSceneName: Level 2
 --- !u!1 &2112396863
 GameObject:
   m_ObjectHideFlags: 0
