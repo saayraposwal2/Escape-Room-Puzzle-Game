@@ -2,13 +2,21 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.InputSystem;
 
+[RequireComponent(typeof(SpriteRenderer))]
 public class Interact : MonoBehaviour
 {
     public int pillar;
     public bool isInRange = false;
     public UnityEvent interactAction;
 
-    // Update is called once per frame
+    private Puzzle parentPuzzle;
+
+    void Awake()
+    {
+        // Find Puzzle script on parent
+        parentPuzzle = GetComponentInParent<Puzzle>();
+    }
+
     void Update()
     {
         if (isInRange && Keyboard.current.eKey.wasPressedThisFrame)
@@ -24,6 +32,12 @@ public class Interact : MonoBehaviour
         {
             isInRange = true;
             Debug.Log("Player in interaction range");
+
+            // Tell parent puzzle to enable outline
+            if (parentPuzzle != null)
+            {
+                parentPuzzle.SetOutline(true);
+            }
         }
     }
 
@@ -33,6 +47,12 @@ public class Interact : MonoBehaviour
         {
             isInRange = false;
             Debug.Log("Player left interaction range");
+
+            // Tell parent puzzle to disable outline
+            if (parentPuzzle != null)
+            {
+                parentPuzzle.SetOutline(false);
+            }
         }
     }
 }

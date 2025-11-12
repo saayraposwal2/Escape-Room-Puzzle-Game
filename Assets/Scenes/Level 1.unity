@@ -2740,6 +2740,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   escape: {fileID: 1095599351}
+  outlineMaterial: {fileID: 0}
 --- !u!1 &604110755 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2633846178351620643, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
@@ -4298,6 +4299,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   escape: {fileID: 798896087}
+  outlineMaterial: {fileID: 2100000, guid: 96da953cc6ca6984c88aee591f5e3a17, type: 2}
 --- !u!1 &1090703463
 GameObject:
   m_ObjectHideFlags: 0
@@ -6277,6 +6279,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   escape: {fileID: 1769015512}
+  outlineMaterial: {fileID: 0}
 --- !u!1 &1825768082 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 155514914408396273, guid: 7a79bee9237d2b044b74ea9433a9a88d, type: 3}
@@ -6451,6 +6454,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   escape: {fileID: 2112396863}
+  outlineMaterial: {fileID: 0}
 --- !u!1001 &1873595805
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13926,6 +13930,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   escape: {fileID: 410183198}
+  outlineMaterial: {fileID: 0}
 --- !u!4 &4611420894941866806 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8981322930601913923, guid: fe5f82c7ffc6be6478dafcd9ed320e2f, type: 3}
