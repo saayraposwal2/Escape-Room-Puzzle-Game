@@ -12,7 +12,6 @@ public class Puzzle : MonoBehaviour
     {
         bool isActive = escape.activeSelf;
         escape.SetActive(!isActive); // toggles on/off
-        Debug.Log(isActive ? "UI closed" : "UI opened");
         Time.timeScale = isActive ? 1f : 0f;
     }
 

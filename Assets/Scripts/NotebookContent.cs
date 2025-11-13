@@ -11,7 +11,11 @@ using UnityEngine.InputSystem;
         public static String Content2 = "\n<sprite name=\"glyphs-transparent_3\">  <sprite name=\"glyphs-transparent_20\">  <sprite name=\"glyphs-transparent_34\">";
         public static String Content3 = "\n<sprite name=\"glyphs-transparent_27\">  <sprite name=\"glyphs-transparent_9\">  <sprite name=\"glyphs-transparent_30\">";
         public static String Content4 = "\n<sprite name=\"glyphs-transparent_34\">  <sprite name=\"glyphs-transparent_9\">  <sprite name=\"glyphs-transparent_30\">";
-
+    public static String Content5 = "\n meaning 1 - Luminar Follow Aelora Vearnis>";
+    public static String Content6 = "\n meaning 2 - Luminar Follow Truth";
+    public static String Content7 = "\n meaning 3 - Kindness open door";
+    public static String Content8 = "\n meaning 4 - Truth open door";
+    
         
         private static string content = "-These people were all practicing vegetarians.\n" +
         "-They believed in non-violence towards all living beings.\n" +
@@ -59,6 +63,11 @@ using UnityEngine.InputSystem;
         }
         
     }
+
+        public static void gameend()
+    {
+        content += Content5 + Content6 + Content7 + Content8;
+    } 
        
 
         private void OnValidate()

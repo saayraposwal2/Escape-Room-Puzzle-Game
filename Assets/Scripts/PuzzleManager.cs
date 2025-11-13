@@ -1,16 +1,26 @@
+using TMPro;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.InputSystem;
 
 public class PuzzleManager : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     [SerializeField] private string correctAnswer = "abcd";
+    [SerializeField] public GameObject textDisplay;
+
+    private bool flag = false;
     
 
     void Update()
     {
         // Check every frame if needed (or you can call this manually after each drop)
         CheckAnswer();
+        if (flag && Keyboard.current.eKey.wasPressedThisFrame)
+        {   
+            flag = false;
+            textDisplay.SetActive(false);
+        }
     }
 
     public void CheckAnswer()
@@ -29,7 +39,10 @@ public class PuzzleManager : MonoBehaviour
 
         if (currentAnswer == correctAnswer)
         {
-            Debug.Log("✅ Puzzle Complete!");
+            flag = true;
+            textDisplay.SetActive(true);
+            NotebookContents.gameend();
+        
             
         }
     }
