@@ -2740,12 +2740,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   escape: {fileID: 1095599351}
-  outlineMaterial: {fileID: 0}
---- !u!1 &604110755 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 2633846178351620643, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
-  m_PrefabInstance: {fileID: 1366352722}
-  m_PrefabAsset: {fileID: 0}
+  outlineMaterial: {fileID: 2100000, guid: 96da953cc6ca6984c88aee591f5e3a17, type: 2}
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
@@ -4919,22 +4914,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1089616201}
     m_Modifications:
-    - target: {fileID: -8012995110127793108, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
-      propertyPath: m_Radius
-      value: 0.56956214
-      objectReference: {fileID: 0}
-    - target: {fileID: -8012995110127793108, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
-      propertyPath: m_Offset.y
-      value: -0.1279943
-      objectReference: {fileID: 0}
     - target: {fileID: 2633846178351620643, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
       propertyPath: m_Name
       value: InteractibleCircle
       objectReference: {fileID: 0}
-    - target: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1.84
-      objectReference: {fileID: 0}
+    - target: {fileID: 5730248218319937173, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+      propertyPath: interactAction.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1089616203}
     - target: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.15
@@ -4975,49 +4962,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 1763222899509535076, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
+    m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 2633846178351620643, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1366352725}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
 --- !u!4 &1366352723 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
   m_PrefabInstance: {fileID: 1366352722}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1366352725
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 604110755}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b1bc61a5d7e4a534ab69246c71b2f6af, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  pillar: 3
-  isInRange: 0
-  interactAction:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1089616203}
-        m_TargetAssemblyTypeName: Puzzle, Assembly-CSharp
-        m_MethodName: TogglePanel
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
 --- !u!1 &1399423688
 GameObject:
   m_ObjectHideFlags: 0
@@ -13930,7 +13884,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   escape: {fileID: 410183198}
-  outlineMaterial: {fileID: 0}
+  outlineMaterial: {fileID: 2100000, guid: 96da953cc6ca6984c88aee591f5e3a17, type: 2}
 --- !u!4 &4611420894941866806 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8981322930601913923, guid: fe5f82c7ffc6be6478dafcd9ed320e2f, type: 3}
