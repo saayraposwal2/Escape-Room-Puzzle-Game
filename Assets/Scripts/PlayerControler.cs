@@ -7,6 +7,11 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float speed = 5f;
     private Vector2 moveInput;
 
+    void Awake()
+    {
+        DontDestroyOnLoad(this.gameObject);
+    }
+
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();

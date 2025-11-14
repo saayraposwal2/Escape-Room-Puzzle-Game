@@ -4,6 +4,11 @@ public class JournalControl : MonoBehaviour
 {
     public GameObject journalUI;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
+
+    void Awake()
+    {
+        DontDestroyOnLoad(this.gameObject);
+    }
     void Start()
     {
         journalUI.SetActive(false);
