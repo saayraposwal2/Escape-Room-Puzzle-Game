@@ -1,4 +1,7 @@
+using TMPro;
 using UnityEngine;
+using UnityEngine.Events;
+using UnityEngine.InputSystem;
 
 public class PuzzleManager : MonoBehaviour
 {
@@ -11,6 +14,11 @@ public class PuzzleManager : MonoBehaviour
     void Update()
     {
         CheckAnswer();
+        if (puzzleCompleted && Keyboard.current.eKey.wasPressedThisFrame)
+        {   
+            puzzleCompleted = false;
+            completeMessageUI.SetActive(false);
+        }
     }
 
     public void CheckAnswer()

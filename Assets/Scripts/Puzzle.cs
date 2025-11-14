@@ -21,8 +21,7 @@ public class Puzzle : MonoBehaviour
     public void TogglePanel()
     {
         bool isActive = escape.activeSelf;
-        escape.SetActive(!isActive);
-        Debug.Log(isActive ? "UI closed" : "UI opened");
+        escape.SetActive(!isActive); // toggles on/off
         Time.timeScale = isActive ? 1f : 0f;
     }
 
