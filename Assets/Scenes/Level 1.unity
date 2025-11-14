@@ -2483,14 +2483,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: InteractibleCircle
       objectReference: {fileID: 0}
-    - target: {fileID: 5730248218319937173, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
-      propertyPath: interactAction.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 596227722}
-    - target: {fileID: 5730248218319937173, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
-      propertyPath: interactAction.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: TogglePanel
-      objectReference: {fileID: 0}
     - target: {fileID: 6804271812745973704, guid: 45c92d7efc5cd7e45b16b8171a182477, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.78
@@ -6241,7 +6233,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   escape: {fileID: 1769015512}
-  outlineMaterial: {fileID: 2100000, guid: 96da953cc6ca6984c88aee591f5e3a17, type: 2}
+  outlineMaterial: {fileID: 0}
 --- !u!1 &1825768082 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 155514914408396273, guid: 7a79bee9237d2b044b74ea9433a9a88d, type: 3}
@@ -6416,7 +6408,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   escape: {fileID: 2112396863}
-  outlineMaterial: {fileID: 2100000, guid: 96da953cc6ca6984c88aee591f5e3a17, type: 2}
+  outlineMaterial: {fileID: 0}
 --- !u!1001 &1873595805
 PrefabInstance:
   m_ObjectHideFlags: 0
