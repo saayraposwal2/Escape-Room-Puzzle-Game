@@ -89,3 +89,15 @@ Below is a simple flowchart describing how the core gameplay loop works:
             └─────────────────────────┘
 📝 License
 MIT License
+
+📥 Download Instructions
+1. To run the game properly on your device:
+2. Go to this project’s GitHub repository.
+3. Switch to the clean-build branch.
+4. Download the ZIP file from that branch using
+5. Code → Download ZIP.
+6. Extract the ZIP file completely.
+
+⚠️ Important:
+Running the game from any other branch may cause missing files, editor-only issues, or incomplete builds.
+Always use the clean-build branch for the fully packaged, ready-to-play version.
